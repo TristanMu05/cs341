@@ -1,9 +1,0 @@
-# BST Dictionary Visualizer Requirements
-# This application uses only Python standard library modules
-
-# Main dependencies (all included in Python standard library):
-# - tkinter (GUI framework)
-# - math (mathematical functions)
-
-# No external packages required!
-# Just run: python3 bst_visualizer.py
